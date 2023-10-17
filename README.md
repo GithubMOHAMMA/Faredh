@@ -4,4 +4,4 @@ ls
 
 cd Faredh
 
-python py
+python cock.py
