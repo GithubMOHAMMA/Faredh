@@ -1,7 +1,7 @@
-git clone git@github.com:GithubMOHAMMA/Faredh.git
+git clone https://github.com/GithubMOHAMMA/Faredh
 
 ls
 
 cd Faredh
 
-python cock.py
+python py
